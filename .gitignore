@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+mandelbrot
+mandelbrot.ppm
+mandelbrot.png
